@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drunsinn0.github.io/gta6-pc-tracker/sitemap.xml

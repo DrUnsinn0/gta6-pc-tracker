@@ -1,11 +1,11 @@
 {
   "siteUrl": "https://drunsinn0.github.io/gta6-pc-tracker/",
   "googleVerification": [],
-  "updatedAt": "2026-11-18T15:00:00+01:00",
+  "updatedAt": "2026-11-18T18:08:00+01:00",
   "consoleLaunch": "2026-11-19",
   "status": {
     "pc": { "label": "Nicht angekündigt", "state": "bad", "note": "Rockstar nennt bisher nur PS5 und Xbox Series X|S." },
-    "date": { "label": "Unbekannt", "state": "idle", "note": "GTA V kam rund 19 Monate nach den Konsolen auf PC. Schätzungen reichen bis 2028." },
+    "date": { "label": "Unbekannt", "state": "idle", "note": "GTA V kam rund 19 Monate nach den Konsolen auf PC. Schätzungen reichen bis 2028. Ein unbestätigter Bericht nennt Anfang 2027." },
     "drm": { "label": "Unbekannt", "state": "idle", "note": "Kein Hinweis auf Denuvo. Rockstar nutzt bisher den eigenen Launcher." },
     "crack": { "label": "Kein PC-Build", "state": "idle", "note": "Ohne PC-Version gibt es nichts zu cracken." }
   },
@@ -24,6 +24,7 @@
     { "id": "p06-taketwo-q2", "ts": "2026-11-09", "tags": ["PC-Version", "Rockstar"], "confidence": "Bestätigt", "title": "Take-Two: Neuigkeiten zur PC-Version kommen von Rockstar", "body": "Bei den Quartalszahlen bestätigt Take-Two den Konsolen-Start am 19. November. Zur PC-Version gibt es weiter nichts: Ankündigungen dazu überlässt der Konzern Rockstar.", "sources": [{ "label": "TweakTown", "url": "https://www.tweaktown.com/news/114580/grand-theft-auto-6-pc-and-physical-disc-news-will-come-from-rockstar-confirms-take-two/index.html" }, { "label": "StockTitan", "url": "https://www.stocktitan.net/articles/gta-6-release-date-take-two-holiday-sales-2026" }] },
     { "id": "p07-denuvo-open", "ts": "2026-11-17", "tags": ["DRM"], "confidence": "Bericht", "title": "Denuvo bei GTA 6? Bisher kein Hinweis", "body": "Weil es keinen PC-Shop-Eintrag gibt, ist auch kein Kopierschutz gelistet. Tracker-Seiten sehen aktuell keine Spur von Denuvo, weisen aber darauf hin, dass sich das bis zu einem PC-Release noch ändern kann.", "sources": [{ "label": "IsItCracked", "url": "https://isitcracked.com/news/will-gta-6-use-denuvo-heres-the-current-answer" }] },
     { "id": "p08-fakes", "ts": "2026-11-18T09:00:00+01:00", "tags": ["Gerücht", "PC-Version"], "confidence": "Gerücht", "title": "Falsche „GTA 6 PC Download“-Angebote im Umlauf", "body": "Kurz vor dem Konsolen-Start tauchen Seiten und GitHub-Projekte auf, die einen geleakten PC-Build samt Denuvo-Umgehung versprechen und dazu auffordern, den Virenschutz abzuschalten. Einen echten PC-Build gibt es nicht. Solche Angebote sind Fallen.", "sources": [] },
+    { "id": "p20261013-gamesbeat-q1-2027", "ts": "2026-10-13", "tags": ["PC-Version", "Gerücht"], "confidence": "Gerücht", "title": "Bericht: PC-Version soll Anfang 2027 kommen", "body": "GamesBeat berichtet unter Berufung auf vier ungenannte Quellen, dass Rockstar die PC-Version für Januar bis März 2027 plant. Das wären nur wenige Monate nach dem Konsolen-Start. Rockstar und Take-Two haben das nicht bestätigt.", "sources": [{ "label": "TweakTown", "url": "https://www.tweaktown.com/news/114065/report-gta-vi-pc-port-coming-jan-mar-2027/index.html" }, { "label": "Digital Trends", "url": "https://digitaltrends.com/gaming/gta-6-could-be-coming-to-pc-in-early-2027/" }, { "label": "PCWorld", "url": "https://www.pcworld.com/article/3260660/we-guessed-late-2027-for-gta-6-on-pc-a-report-says-q1-2027.html" }] },
     { "id": "p09-eve-of-launch", "ts": "2026-11-18T12:00:00+01:00", "tags": ["PC-Version", "Rockstar"], "confidence": "Bestätigt", "title": "Einen Tag vor dem Launch: PC weiter außen vor", "body": "Morgen erscheint GTA 6 für PS5 und Xbox Series X|S. Eine PC-Version, ein Termin oder Details zum Kopierschutz sind nicht angekündigt. Dieser Tracker meldet sich, sobald sich daran etwas ändert.", "sources": [{ "label": "PC Gamer", "url": "https://www.pcgamer.com/no-gta-6-pc-release-announced" }] }
   ]
 }
